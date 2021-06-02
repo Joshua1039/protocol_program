@@ -1,0 +1,7 @@
+[2021-06-02 17:46:20,277]  INFO main (Application_Main.java:11) - [ScenarioAGI] setConfig
+[2021-06-02 17:48:11,137]  INFO main (Application_Main.java:12) - [ScenarioAGI] setConfig
+[2021-06-02 17:48:11,139]  INFO Strtest (asd.java:10) - Strtest()
+[2021-06-02 18:21:52,775]  INFO main (Application_Main.java:11) - LOG4J 사용을 위한 Logger.InitLogger(Application_Main.class)
+[2021-06-02 18:48:37,710]  INFO main (Application_Main.java:11) - LOG4J 사용 >  Logger.InitLogger(Application_Main.class);
+[2021-06-02 18:48:37,712]  INFO main (Application_Main.java:14) - Properties 사용 >  Properties p; 
+[2021-06-02 18:48:37,742]  INFO createProperties (MainUtil.java:31) - [MainUtil] GetProperties configfile load success!!! 
